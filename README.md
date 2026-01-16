@@ -1,5 +1,3 @@
-# 🚀 App Quiz React
-
 [![React](https://img.shields.io/badge/React-19.2.3-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
@@ -15,7 +13,7 @@ Pastikan Anda sudah menginstal:
 ### 2. Clone Repositori
 Buka terminal/command prompt dan jalankan perintah berikut:
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/FataZikrillah/react-app.git
 ```
 *(Ganti `USERNAME/REPO_NAME` dengan URL repositori Anda)*
 
